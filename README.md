@@ -1,4 +1,4 @@
-#Funcionalidades
+# Funcionalidades
 
 Aplicação feita para exemplificar o uso de context Api no react.JS.
 Contando com um modo de transição entre os temas claro e escuro e um campo para registrar usuários.
