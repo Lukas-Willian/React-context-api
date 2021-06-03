@@ -1,0 +1,12 @@
+#Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 300px;
+    height: 300px;
+
+    font-family: Roboto;
+
+    font-size: 20px;
+}
